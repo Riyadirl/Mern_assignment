@@ -1,8 +1,48 @@
-body{
-    background-image: url('https://images.pexels.com/photos/566888/pexels-photo-566888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+body {
+    background-image: url('https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-size: cover;
-    width:800px ;
-    height:700px;
-    margin: auto;
+    background-position: center;
+    font-family:monospace;
+    color: black;
+    padding: 20px;
+    margin: 0;
 }
 
+h1 {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color:azure;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+label {
+    display: block;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+input {
+    background-color:gainsboro;
+    width: 100%;
+    font-size: 24px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    box-shadow:black;
+}
+
+#bmiResult {
+    font-family: monospace;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+  }
