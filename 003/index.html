@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Digital Clock</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+
+    </head>
+    <body>
+        <div class="container">
+            <h2>Digital Clock</h2><br><br>
+            <div id="time"></div>
+        </div>
+        <script>
+            function updateTime() {
+              
+                const timeString = now.toLocaleTimeString();
+                const dateString = now.toDateString();
+                document.getElementById("time").innerHTML = timeString;
+               
+              }
+              setInterval(updateTime, 1000);
+              
+        </script>
+    </body>
+</html>
