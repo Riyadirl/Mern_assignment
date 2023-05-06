@@ -5,7 +5,6 @@ function evenSum(arr) {
       sum = sum + Math.pow(arr[i], 2);
     }
   }
-
   return sum;
 }
 
