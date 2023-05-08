@@ -9,4 +9,4 @@ function multiplicationTable(num) {
 multiplicationTable(3);
 
 //different input
-multiplicationTable(67);
+multiplicationTable(10);
