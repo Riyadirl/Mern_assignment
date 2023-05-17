@@ -1,0 +1,26 @@
+1. Client-side:  Client side code is executed on the user's device.
+Server-side: Server side code executed on the server(backend), using all resources.
+
+The main difference is Client side code runs on the user's device, whereas server side code runs on the server.
+
+2. An HTTP request is a message sent by an user to a server.
+Types of HTTP requests:
+   >POST
+   >GET
+   >PUT
+   >DELETE
+   >HEAD
+   >OPTIONS
+   >PATCH
+
+3.JSON is a standar format for representing structured data.
+
+Uses:
+   >API Communication
+   >Data Serialize
+   >Storage management
+   >AJAX Communication
+   >Client-Side Data Manipulation
+   >File management
+
+4. Middleware is software that developers use to connect applications to a network. It manages the transfer of data between server and application. It essentially acts as a bridge between the front end and the back end of any application.
