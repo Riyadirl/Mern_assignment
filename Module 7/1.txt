@@ -29,5 +29,5 @@ Uses:
 Database access services is one of the most common examples of Middleware.
 
 5. Controller is a module that handles the logic and flow of a web application.
-Receives and routes Requests is its role in the MVC architecture,
+Receives and routes Requests is its role in the MVC architecture.
    
