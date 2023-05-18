@@ -1,0 +1,12 @@
+Front-end web development focuses on what users see on the web browser screen. It is the “client-side” of web development.
+
+Back-end development focuses on the behind the scenes of all websites. It is what makes your site interactive. Back-end development is also the “server-side” of web development.0
+
+Front-end development task are:
+  > User interface
+  > creating web page with different types of layout.
+
+Back-end development task are:  
+  > Servers management
+  > database management
+  > Connecting to browser.
