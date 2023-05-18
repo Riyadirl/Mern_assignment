@@ -13,4 +13,4 @@ the future for web developers is promising but also challenging. Embracing emerg
 technologies, focusing on security and accessibility, and continuously updating skills
 will be crucial to thrive in the evolving digital landscape. By staying adaptable,
 collaborative, and forward-thinking, web developers can seize the opportunities
-and contribute to shaping the future of web development.
+    and contribute to shaping the future of web development.
