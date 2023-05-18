@@ -1,5 +1,6 @@
 1. Client-side:  Client side code is executed on the user's device.
-Server-side: Server side code executed on the server(backend), using all resources.
+Server-side: Server side code executed on the server(backend),
+using all resources.
 
 The main difference is Client side code runs on the user's device, whereas server side code runs on the server.
 
@@ -24,3 +25,9 @@ Uses:
    >File management
 
 4. Middleware is software that developers use to connect applications to a network. It manages the transfer of data between server and application. It essentially acts as a bridge between the front end and the back end of any application.
+
+Database access services is one of the most common examples of Middleware.
+
+5. Controller is a module that handles the logic and flow of a web application.
+Receives and routes Requests is its role in the MVC architecture,
+   
