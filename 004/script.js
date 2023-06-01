@@ -1,3 +1,5 @@
+/*
+
 const http = require("http");
 const fs = require("fs");
 const path = require("path");
@@ -47,3 +49,5 @@ function getContentType(filePath) {
       return "application/octet-stream";
   }
 }
+
+*/
