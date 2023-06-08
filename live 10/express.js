@@ -7,6 +7,7 @@ app.get('/protected', authentication, (req, res) => {
     res.json({ message: 'Successed' });
 });
 
+
 exports.authentication = (req, res, next) => {
     try {
         const decoded = jwt.verify(
