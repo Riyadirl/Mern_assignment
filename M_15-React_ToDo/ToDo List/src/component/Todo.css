@@ -1,0 +1,81 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #f2f2f2;
+
+    padding: 20px;
+
+}
+
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 400px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+table td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+}
+
+table td:first-child {
+    width: 80%;
+}
+
+table td:last-child {
+    width: 20%;
+}
+
+input[type="text"] {
+    padding: 12px;
+    font-size: 16px;
+    width: 300px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button.remove-btn {
+    background-color: #dc3545;
+}
+
+button.remove-btn:hover {
+    background-color: #c82333;
+}
+
+.add-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
