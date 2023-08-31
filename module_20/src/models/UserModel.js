@@ -27,5 +27,5 @@ DataSchema.pre("remove", async function (next) {
     next();
 });
 
-const UserModel = mongoose.model("user", DataSchema);
+const UserModel = mongoose.model("users", DataSchema);
 module.exports = UserModel;
